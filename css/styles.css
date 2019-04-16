@@ -15,6 +15,10 @@ h3{
 p{
   color: grey;
 }
+#features {
+    /* background-color: white; */
+    position: relative;
+}
 #title .container-fluid {
   padding: 3% 15% 7%;
   text-align: left;
@@ -54,9 +58,6 @@ p{
 .feature-title {
     font-size: 1.5rem;
 }
-.white-section{
-  background:white;
-}
 .pink-section {
     background-color: #ef8172;
     color: white;
@@ -65,10 +66,6 @@ p{
 #title {
   background-color: #ff4c68;
   color: white;
-}
-#features {
-    /* background-color: white; */
-    position: relative;
 }
 .download-btn{
   margin: 5%;
@@ -112,6 +109,12 @@ p{
 .press-logo {
     width: 15%;
     margin: 20px 20px 50px;
+}
+.download-button{
+  margin: 5% 0 5% 5%;
+}
+.social-icon{
+  margin: 10px;
 }
 #pricing {
     padding: 100px;
