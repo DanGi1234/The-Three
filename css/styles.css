@@ -66,6 +66,10 @@ p{
   background-color: #ff4c68;
   color: white;
 }
+#features {
+    /* background-color: white; */
+    position: relative;
+}
 .download-btn{
   margin: 5%;
 }
